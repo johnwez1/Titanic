@@ -1,0 +1,11 @@
+Breakdown of results from running titanic.R
+
+Variable importance breakdown as follows:
+
+     Sex     Fare   Pclass    SibSp Embarked    Parch      Age 
+      41       20       13       10        7        6        3 
+
+Running prediction on the test set we get:
+
+Correctly classified: 223
+Incorrectly classified: 44
