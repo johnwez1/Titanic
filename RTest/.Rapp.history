@@ -1,0 +1,5 @@
+mydata = read.table("titanic.csv")
+mydata = read.table("downloads/rtest/titanic.csv")
+mydata = read.table("titanic.csv")
+read.csv("titanic.csv")
+ls()
